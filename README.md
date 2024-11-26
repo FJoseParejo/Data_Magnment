@@ -1,6 +1,6 @@
 # Proyecto de Manejo de Datos con Python 🐍
 
-Este repositorio contiene código en Python diseñado para realizar tareas de manejo y análisis de datos utilizando las bibliotecas **Pandas** y **NumPy**. El proyecto se centra en trabajar con datasets en formato **CSV**, proporcionando herramientas y ejemplos para cargar, limpiar, transformar y analizar datos de manera eficiente.
+Este repositorio contiene código en Python diseñado para realizar tareas de manejo y análisis de datos utilizando las bibliotecas **Pandas** y **NumPy**. El proyecto se centra en trabajar con datasets en formato **CSV** con datos aleatorios generados con Faker, proporcionando herramientas y ejemplos para cargar, limpiar, transformar y analizar datos de manera eficiente.
 
 ## 📂 Estructura del Proyecto
 
